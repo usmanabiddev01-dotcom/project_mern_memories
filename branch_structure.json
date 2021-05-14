@@ -1,0 +1,24 @@
+{
+  "default_branch": "PART_1_and_2",
+  "branches": [
+    "PART_1_and_2",
+    "PART_3",
+    "PART_4",
+    "PART_5",
+    "PART_6"
+  ],
+  "parent": {
+    "PART_1_and_2": null,
+    "PART_3": "PART_1_and_2",
+    "PART_4": "PART_1_and_2",
+    "PART_5": "PART_1_and_2",
+    "PART_6": "PART_1_and_2"
+  },
+  "order": [
+    "PART_1_and_2",
+    "PART_3",
+    "PART_4",
+    "PART_5",
+    "PART_6"
+  ]
+}
